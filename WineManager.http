@@ -1,0 +1,6 @@
+@WineManager_HostAddress = http://localhost:5167
+
+GET {{WineManager_HostAddress}}/winemanager/
+Accept: application/json
+
+###
